@@ -1,0 +1,6 @@
+# Node.js modules
+node_modules
+
+# Dependency directories
+
+lambda-function.zip
